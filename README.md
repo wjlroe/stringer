@@ -59,7 +59,7 @@ heroku restart
 
 # Niceties
 
-Keyboard Shortcuts
+## Keyboard Shortcuts
 
 You can access the keyboard shortcuts when using the app by hitting `?`.
 
@@ -67,7 +67,7 @@ You can access the keyboard shortcuts when using the app by hitting `?`.
 
 ---
 
-You can run Stringer at `http://reader.yourdomain.com` using a CNAME.
+## You can run Stringer at `http://reader.yourdomain.com` using a CNAME.
 
 If you are on Heroku:
 
@@ -84,7 +84,7 @@ Wait a few minutes for changes to propagate.
 
 ---
 
-ReederApp Support (experimental)
+## ReederApp Support (experimental)
 
 Stringer implements a clone of [Fever's API](http://www.feedafever.com/api) so it can be used with any mobile client that supports Fever.
 
